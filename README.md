@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+My name is Mallikharjuna Reddy. Loved to be called as Malli/Arjun. I am a Software Developer and I am actively seeking full-time opportunities as Software Engineer | Software Developer | Java Developer. 
+
 
 - 🔭 I’m currently working on e_commerce platform.
 - 🌱 I’m currently learning SringBoot.
