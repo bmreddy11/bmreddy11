@@ -6,7 +6,7 @@ My name is Mallikharjuna Reddy. I am a Software Developer and I am actively seek
 
 - Professional in design, and development of n-Tier distributed, Enterprise applications using Java/J2EE technologies and Spring Boot development professional.
 - I’m currently learning NodeJS.
-- Personal Blog: [Hashnode](https://hashnode.com/@bmreddy11)
+
 
 
 
