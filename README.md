@@ -5,7 +5,7 @@ My name is Mallikharjuna Reddy. Loved to be called as Malli/Arjun. I am a Softwa
 
 - 🔭 I’m currently working on e_commerce platform.
 - 🌱 I’m currently learning SringBoot.
-- 📫 How to reach me: [Email](bmreddy1195@gmail.com) | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhavanamreddy)
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](bmreddy1195@gmail.com) | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhavanamreddy)
 - Personal Blog: [Hashnode](https://hashnode.com/@bmreddy11)
 
 
