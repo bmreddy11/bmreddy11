@@ -1,10 +1,17 @@
+# <p align='center'> Hi 👋 </p>
 
 
-My name is Mallikharjuna Reddy. I am a Software Developer and I am actively seeking full-time opportunities as Software Engineer | Software Developer | Java Developer. 
+**ABOUT ME...**
+<p align='center'>
+<h4> My name is Mallikharjuna Reddy. I am a Software Developer. Professional in design, and development of n-Tier distributed, Enterprise applications using Java/J2EE technologies and Spring Boot development professional. </h4>
 
 
-- Professional in design, and development of n-Tier distributed, Enterprise applications using Java/J2EE technologies and Spring Boot development professional.
-- I’m currently learning NodeJS.
+
+- 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+- 💬 Ask me about: Java ❤️ 
+-  👩‍💻 Currently learning: NodeJS
+
 
 **TECHNOLOGIES I WORK WITH**
 
