@@ -3,7 +3,7 @@
 
 **ABOUT ME...**
 <p align='center'>
-<h4> My name is Mallikharjuna Reddy. I am a Software Developer. Professional in design, and development of n-Tier distributed, Enterprise applications using Java/J2EE technologies and Spring Boot development professional. </h4>
+<h4> My name is Mallikharjuna Reddy. I am a Software Developer. Professional in design, and development of n-Tier distributed, Enterprise applications using Java/J2EE technologies. I am a Spring Boot development professional. </h4>
 
 
 
