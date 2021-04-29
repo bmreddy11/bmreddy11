@@ -3,7 +3,7 @@
 
 **ABOUT ME...**
 <p align='center'>
-<h4> My name is Mallikharjuna Reddy Bhavanam (bmreddy). I am a Software Developer/Web Developer. Professional in design, and development of n-Tier distributed, Enterprise applications using Java/J2EE technologies. A Spring Boot application development professional. </h4>
+<h4> My name is Mallikharjuna Reddy Bhavanam. I am a Software Developer/Web Developer. Professional in design, and development of n-Tier distributed, Enterprise applications using Java/J2EE technologies. A Spring Boot application development professional. </h4>
 
 
 
